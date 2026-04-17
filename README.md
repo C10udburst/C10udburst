@@ -2,6 +2,8 @@
 	<img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif">
 </p>
 
+discord: cloudburst.coconut
+
 <!--
 **C10udburst/C10udburst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
